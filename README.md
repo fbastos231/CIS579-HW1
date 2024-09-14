@@ -4,7 +4,7 @@ Reference Video: https://www.youtube.com/watch?v=7eh4d6sabA0
 
 1. Follow the steps outlined in the video for installing the ML tools. Take screenshots at each step to document the installation process. Verify that the installed tools are functioning correctly by executing a simple ML script.
 
-Submission: https://github.com/fbastos231/CIS579-HW1/music_genre_pred_submission.pdf
+Submission: [https://github.com/fbastos231/CIS579-HW1/music_genre_pred_submission.pdf](https://github.com/fbastos231/CIS579-HW1/blob/main/music_genre_pred_submission.pdf)
 
 Additional questions:
 
